@@ -8,9 +8,9 @@
 
   <h3>Developed with:</h3>
 <div align="center">
-  <img align="center" alt="Kris-typescript" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
-  <img align="center" alt="Kris-sass" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg">
-  <img align="center" alt="Kris-reactjs" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+  <img align="center" alt="Kris-typescript" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"> ‌ ‌ ‌
+  <img align="center" alt="Kris-sass" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg">
+  <img align="center" alt="Kris-reactjs" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
 </div>
 
 <br />
